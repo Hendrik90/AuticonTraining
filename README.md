@@ -44,3 +44,5 @@ Ein pullrequest geht von einem Branch in einen anderen, nicht nur innerhalb eine
 # Next Steps
 
 Dieses Repository forken, einen lokalen Clone erstellen, etwas ändern, einen Commit anfertigen, pushen und einen PR stellen
+
+## Neue Zeile :-)
